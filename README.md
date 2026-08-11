@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- タイピング風ヘッダーアニメーション（絵文字エラー修正済み） -->
+<!-- タイピング風ヘッダーアニメーション（絵文字なし） -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D05880&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+IRUMI163!+%E2%9C%A8;Welcome+to+my+GitHub+Profile!+%F0%9F%8C%B8;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D05880&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+IRUMI163;Welcome+to+my+GitHub+Profile!;Happy+Coding!" alt="Typing SVG" />
 </a>
 
 <br />
@@ -20,24 +20,24 @@
 
 ---
 
-### 🌸 About Me
+### About Me
 
-- 💻 **ジャンル / 開発:** Webプログラミング / デザイン
-- 🎨 **好きな色:** `#A8EDEA` × `#FED6E3` （パステルグラデーション）
-- 🌱 **現在学習中:** 新しい技術やフレームワークを勉強中！
-- ✨ **ひとこと:** 見てくれてありがとうございます！気軽にフォローしてください！
+- ジャンル / 開発: Webプログラミング / デザイン
+- 好きな色: #A8EDEA × #FED6E3 (パステルグラデーション)
+- 現在学習中: 新しい技術やフレームワークを勉強中
+- ひとこと: 見てくれてありがとうございます！気軽にフォローしてください
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<!-- 総合統計カード（安定設定に変更） -->
-<img src="https://github-readme-stats.vercel.app/api?username=IRUMI163&show_icons=true&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=FED6E3&border_color=A8EDEA&border_radius=12" height="150" alt="IRUMI163's GitHub Stats" />
+<!-- 総合統計カード（アクセス制限回避コード追加済み） -->
+<img src="https://github-readme-stats.vercel.app/api?username=IRUMI163&show_icons=true&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=FED6E3&border_color=A8EDEA&border_radius=12&cache_seconds=86400" height="150" alt="IRUMI163's GitHub Stats" />
 &nbsp;
-<!-- よく使う言語カード（安定設定に変更） -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRUMI163&layout=compact&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=FED6E3&border_color=A8EDEA&border_radius=12" height="150" alt="Top Languages" />
+<!-- よく使う言語カード（アクセス制限回避コード追加済み） -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRUMI163&layout=compact&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=FED6E3&border_color=A8EDEA&border_radius=12&cache_seconds=86400" height="150" alt="Top Languages" />
 
 <br /><br />
 
