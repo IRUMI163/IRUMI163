@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- タイピング風ヘッダーアニメーション -->
+<!-- タイピング風ヘッダーアニメーション（絵文字エラー修正済み） -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D05880&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+IRUMI163+✨;Welcome+to+my+GitHub+Profile!+🌸;Happy+Coding!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D05880&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+IRUMI163!+%E2%9C%A8;Welcome+to+my+GitHub+Profile!+%F0%9F%8C%B8;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br />
 
-<!-- アイコンバッジ（好きな色で統一） -->
+<!-- アイコンバッジ -->
 ![HTML5](https://img.shields.io/badge/HTML5-FED6E3?style=for-the-badge&logo=html5&logoColor=333)
 ![CSS3](https://img.shields.io/badge/CSS3-A8EDEA?style=for-the-badge&logo=css3&logoColor=333)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FED6E3?style=for-the-badge&logo=javascript&logoColor=333)
@@ -33,11 +33,11 @@
 
 <div align="center">
 
-<!-- 総合統計カード（グラデーションカラー指定済み） -->
-<img src="https://github-readme-stats.vercel.app/api?username=IRUMI163&show_icons=true&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=30,FED6E3,A8EDEA&border_color=A8EDEA&border_radius=12" alt="IRUMI163's GitHub Stats" width="48%" />
+<!-- 総合統計カード（安定設定に変更） -->
+<img src="https://github-readme-stats.vercel.app/api?username=IRUMI163&show_icons=true&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=FED6E3&border_color=A8EDEA&border_radius=12" height="150" alt="IRUMI163's GitHub Stats" />
 &nbsp;
-<!-- よく使う言語カード（グラデーションカラー指定済み） -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRUMI163&layout=compact&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=30,FED6E3,A8EDEA&border_color=FED6E3&border_radius=12" alt="Top Languages" width="48%" />
+<!-- よく使う言語カード（安定設定に変更） -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRUMI163&layout=compact&title_color=D05880&text_color=444444&icon_color=38A3A5&bg_color=FED6E3&border_color=A8EDEA&border_radius=12" height="150" alt="Top Languages" />
 
 <br /><br />
 
